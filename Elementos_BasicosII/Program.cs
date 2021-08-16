@@ -11,7 +11,7 @@ namespace Elementos_BasicosII
         static void Main(string[] args)
         {
             //loops
-            loop(); // llamado el metodo loop
+            loop(); // llamado el metodo loop(), para imprimir los metodos en array
             Console.ReadKey();
         }
         // Whille
